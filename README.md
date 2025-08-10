@@ -1,3 +1,3 @@
 # CV-project
 My first HTML project
-[Open this project in VS Code](https://vscode.dev/users/radovan/programiranje/projekat1/index.html)
+[Open this project in VS Code](https://vscode.dev//Users/radovan/programiranje/projekat1/index.html)
